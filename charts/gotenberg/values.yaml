@@ -68,5 +68,5 @@ verticalAutoscaling:
   minAllowed: 50m
 
 podDisruptionBudget:
-  enabled: false
+  enabled: true
   maxUnavailable: 1
